@@ -51,11 +51,13 @@ public class TankDamage : MonoBehaviourPun
             GameObject eff = Instantiate(expEffect, transform.position, Quaternion.identity);
             Destroy(eff, 2.0f); // 폭발 효과를 2초 후에 제거
             GetComponent<BoxCollider>().enabled = false; // 탱크의 충돌체를 비활성화
-            SetTankVisible(false); // 탱크를 보이지 않게 설정
+            GetComponent<Rigidbody>().isKinematic = true; // 탱크의 Rigidbody를 비활성화하여 움직이지 않도록 설정
+        SetTankVisible(false); // 탱크를 보이지 않게 설정
             yield return ws;
             SetTankVisible(true); // 5초 후에 탱크를 다시 보이게 설정
             GetComponent<BoxCollider>().enabled = true; // 탱크의 충돌체를 비활성화
-            curHp = maxHp; // 탱크의 체력을 최대 체력으로 초기화
+            GetComponent<Rigidbody>().isKinematic = true; // 탱크의 Rigidbody를 비활성화하여 움직이지 않도록 설정
+        curHp = maxHp; // 탱크의 체력을 최대 체력으로 초기화
         }
         void SetTankVisible(bool isVisible)
         {

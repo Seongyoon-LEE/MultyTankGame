@@ -178,7 +178,6 @@ GameObject:
   - component: {fileID: 2591728352666258410}
   - component: {fileID: 7013304269764622172}
   - component: {fileID: 1412394416784191190}
-  - component: {fileID: 8823454610210292008}
   m_Layer: 6
   m_Name: Cannon
   m_TagString: Untagged
@@ -236,28 +235,12 @@ MonoBehaviour:
   prefixField: -1
   Synchronization: 3
   OwnershipTransfer: 0
-  observableSearch: 0
+  observableSearch: 2
   ObservedComponents:
-  - {fileID: 8823454610210292008}
+  - {fileID: 7013304269764622172}
   sceneViewId: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
---- !u!114 &8823454610210292008
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1066544654056283185}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SynchronizePosition: 0
-  m_SynchronizeRotation: 1
-  m_SynchronizeScale: 0
-  m_UseLocal: 1
 --- !u!1 &1484055881267447860
 GameObject:
   m_ObjectHideFlags: 0
@@ -352,7 +335,6 @@ GameObject:
   - component: {fileID: 6684992367822736165}
   - component: {fileID: 7816074597854753903}
   - component: {fileID: 4589114625282424797}
-  - component: {fileID: 5177080483430467993}
   m_Layer: 6
   m_Name: Turret
   m_TagString: Untagged
@@ -407,28 +389,12 @@ MonoBehaviour:
   prefixField: -1
   Synchronization: 3
   OwnershipTransfer: 0
-  observableSearch: 0
+  observableSearch: 2
   ObservedComponents:
-  - {fileID: 5177080483430467993}
+  - {fileID: 7816074597854753903}
   sceneViewId: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
---- !u!114 &5177080483430467993
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1523734922213536277}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SynchronizePosition: 0
-  m_SynchronizeRotation: 1
-  m_SynchronizeScale: 0
-  m_UseLocal: 1
 --- !u!1 &2519405321875448335
 GameObject:
   m_ObjectHideFlags: 0
@@ -444,7 +410,6 @@ GameObject:
   - component: {fileID: 1155004714835300757}
   - component: {fileID: 3628041205963148342}
   - component: {fileID: 8371038911513085048}
-  - component: {fileID: 4120480598534891555}
   - component: {fileID: 2696773862151747765}
   - component: {fileID: 4786350958233389224}
   - component: {fileID: 4191901445266655989}
@@ -668,28 +633,12 @@ MonoBehaviour:
   prefixField: -1
   Synchronization: 3
   OwnershipTransfer: 0
-  observableSearch: 0
+  observableSearch: 2
   ObservedComponents:
-  - {fileID: 4120480598534891555}
+  - {fileID: 1155004714835300757}
   sceneViewId: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
---- !u!114 &4120480598534891555
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2519405321875448335}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SynchronizePosition: 1
-  m_SynchronizeRotation: 1
-  m_SynchronizeScale: 0
-  m_UseLocal: 1
 --- !u!65 &2696773862151747765
 BoxCollider:
   m_ObjectHideFlags: 0
