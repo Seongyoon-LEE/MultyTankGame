@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\assets\\02.scripts\\apache\\apacheai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\apache\\apacheai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\assets\\02.scripts\\tank\\tankdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\tank\\tankdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\assets\\02.scripts\\apache\\apacheai_attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\apache\\apacheai_attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\assets\\02.scripts\\apache\\apachefirecannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\apache\\apachefirecannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\assets\\02.scripts\\tank\\firecannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\tank\\firecannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|c:\\users\\tap2\\documents\\unity projects\\unity_mutlytankgame\\assets\\02.scripts\\network\\photoninit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\network\\photoninit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\assets\\02.scripts\\common\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\common\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\assets\\02.scripts\\common\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\common\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\assets\\02.scripts\\common\\poolingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\common\\poolingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C033A1-B277-7DC4-0817-24D100EF98A0}|PhotonUnityNetworking.csproj|C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\assets\\photon\\photonunitynetworking\\code\\photonnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C033A1-B277-7DC4-0817-24D100EF98A0}|PhotonUnityNetworking.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\code\\photonnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\assets\\02.scripts\\tank\\hoverevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5340A0F-7253-9997-1DFB-2F1DCCD75203}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\tank\\hoverevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApacheFireCannon.cs",
+              "DocumentMoniker": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Apache\\ApacheFireCannon.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Apache\\ApacheFireCannon.cs",
+              "ToolTip": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Apache\\ApacheFireCannon.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Apache\\ApacheFireCannon.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:18:57.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TankDamage.cs",
+              "DocumentMoniker": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Tank\\TankDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Tank\\TankDamage.cs",
+              "ToolTip": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Tank\\TankDamage.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Tank\\TankDamage.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:59:41.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApacheAI.cs",
+              "DocumentMoniker": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Apache\\ApacheAI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Apache\\ApacheAI.cs",
+              "ToolTip": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Apache\\ApacheAI.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Apache\\ApacheAI.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:01:41.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApacheAI_Attack.cs",
+              "DocumentMoniker": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Apache\\ApacheAI_Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Apache\\ApacheAI_Attack.cs",
+              "ToolTip": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Apache\\ApacheAI_Attack.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Apache\\ApacheAI_Attack.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:01:44.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Common\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Common\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Common\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Common\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:55:32.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PoolingManager.cs",
+              "DocumentMoniker": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Common\\PoolingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Common\\PoolingManager.cs",
+              "ToolTip": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Common\\PoolingManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Common\\PoolingManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:49:45.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhotonNetwork.cs",
+              "DocumentMoniker": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "ToolTip": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "ViewState": "AgIAAGYKAAAAAAAAAAAIwC8KAACwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:37:03.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Common\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Common\\GameManager.cs",
+              "ToolTip": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Common\\GameManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Common\\GameManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:07:18.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FireCannon.cs",
+              "DocumentMoniker": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Tank\\FireCannon.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Tank\\FireCannon.cs",
+              "ToolTip": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Tank\\FireCannon.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Tank\\FireCannon.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:56:24.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhotonInit.cs",
+              "DocumentMoniker": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\NetWork\\PhotonInit.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\NetWork\\PhotonInit.cs",
+              "ToolTip": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\NetWork\\PhotonInit.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\NetWork\\PhotonInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:58:14.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HoverEvent.cs",
+              "DocumentMoniker": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Tank\\HoverEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Tank\\HoverEvent.cs",
+              "ToolTip": "C:\\Users\\TAP2\\Documents\\Unity Projects\\Unity_MutlyTankGame\\Assets\\02.Scripts\\Tank\\HoverEvent.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Tank\\HoverEvent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:49:12.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
