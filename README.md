@@ -5,7 +5,7 @@
 <br>
 
 🎥 **게임 영상**  
-https://youtu.be/v06FlqHdTTY
+https://youtu.be/oGMlPxy5L1Y
 
 <br>
 
